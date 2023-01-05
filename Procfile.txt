@@ -1,0 +1,1 @@
+web: gunicorn somanasi.wsgi --log-file -
